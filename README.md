@@ -6,7 +6,7 @@ With a year of hands-on experience in front-end development, I specialize in cra
 
 ###### 📫 How to Reach Me:
 - Email: toktosunuulumeerbek@gmail.com
-- site:
+- site: https://mirba1.github.io/cv/
 
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tmirba/)
